@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["forward_all_binop",""],["forward_ref_ref_binop",""],["forward_ref_val_binop",""],["forward_val_ref_binop",""],["real_arithmetic",""],["write_complex",""]],"struct":[["Complex","A complex number in Cartesian form."],["ParseComplexError",""]],"type":[["Complex32",""],["Complex64",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["impl_serialize",""]],"struct":[["IterSer",""]]});

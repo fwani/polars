@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["cast_and_apply","Same as physical dispatch, but doesnt care about return type"],["impl_dyn_series",""],["impl_dyn_series_numeric",""],["opt_physical_dispatch",""],["physical_dispatch","Dispatch the method call to the physical type and coerce back to logical type"],["try_physical_dispatch",""]]});

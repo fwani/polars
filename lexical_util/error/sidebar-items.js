@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Error code during parsing, indicating failure type."]],"macro":[["format_message","Add an error message for number format errors."],["is_error_type",""],["options_message","Add an error message for options errors."],["write_parse_error","Add an error message for parsing errors."]]});

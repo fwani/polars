@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["BrotliCompressFragmentTwoPass",""],["BrotliStoreMetaBlockHeader",""],["BrotliWriteBits",""],["memcpy",""]],"macro":[["compress_specialization",""]]});

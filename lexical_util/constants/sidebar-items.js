@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["BUFFER_SIZE","Maximum number of bytes required to serialize any number to string."]],"macro":[["formatted_size_impl",""]],"trait":[["FormattedSize","The size, in bytes, of formatted values."]]});

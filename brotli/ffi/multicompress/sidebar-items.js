@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["MAX_THREADS",""]],"fn":[["BrotliEncoderCompressMulti",""],["BrotliEncoderCompressWorkPool",""],["BrotliEncoderCreateWorkPool",""],["BrotliEncoderDestroyWorkPool",""],["BrotliEncoderMaxCompressedSizeMulti",""]],"macro":[["make_send_alloc",""]],"struct":[["BrotliEncoderWorkPool",""]]});

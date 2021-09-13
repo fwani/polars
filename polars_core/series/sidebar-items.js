@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["impl_named_from",""]],"mod":[["implementations",""],["ops",""]],"struct":[["Series","Series"]],"trait":[["IntoSeries",""],["NamedFrom",""],["SeriesTrait",""]]});
